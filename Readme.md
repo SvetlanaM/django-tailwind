@@ -5,7 +5,7 @@ This is example how to setup [Django](https://www.djangoproject.com/) with
 
 ### Requirements
 
-1. Python 3.4 || Python 3.5
+1. Python 3.4 or higher
 2. Node.js
 3. [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) - package
    managers
